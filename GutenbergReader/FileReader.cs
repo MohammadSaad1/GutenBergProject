@@ -32,7 +32,7 @@ namespace GutenbergReader
 
 
 
-            // Path to the folder with classifiers models
+            // Path to the folder with classifiers models 
             var jarRoot = "stanford-ner-2016-10-31";
             var classifiersDirecrory = jarRoot + @"\classifiers";
 
