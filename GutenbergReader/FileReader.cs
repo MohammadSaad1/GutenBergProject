@@ -33,14 +33,14 @@ namespace GutenbergReader
 
 
             // Path to the folder with classifiers models
-            var jarRoot = "C:\\Users\\Mohammad Saad\\Desktop\\try\\root\\stanford-ner-2016-10-31";
+            var jarRoot = "stanford-ner-2016-10-31";
             var classifiersDirecrory = jarRoot + @"\classifiers";
 
             // Loading 3 class classifier model
             var classifier = CRFClassifier.getClassifierNoExceptions(
                 classifiersDirecrory + @"\english.all.3class.distsim.crf.ser.gz");
 
-            string worldcities = System.IO.File.ReadAllText("C:\\Users\\Mohammad Saad\\Desktop\\try\\root\\worldcities.csv");
+            string worldcities = System.IO.File.ReadAllText("/worldcities.csv");
 
 
 

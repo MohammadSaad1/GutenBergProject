@@ -194,6 +194,37 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.all.3class.distsim.crf.ser.gz" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.all.3class.distsim.prop" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.conll.4class.distsim.crf.ser.gz" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.conll.4class.distsim.prop" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.muc.7class.distsim.crf.ser.gz" />
+    <None Include="stanford-ner-2016-10-31\classifiers\english.muc.7class.distsim.prop" />
+    <None Include="stanford-ner-2016-10-31\classifiers\example.serialized.ncc.ncc.ser.gz" />
+    <None Include="stanford-ner-2016-10-31\classifiers\example.serialized.ncc.prop" />
+    <None Include="stanford-ner-2016-10-31\ner-gui.bat" />
+    <None Include="stanford-ner-2016-10-31\ner-gui.command" />
+    <None Include="stanford-ner-2016-10-31\ner-gui.sh" />
+    <None Include="stanford-ner-2016-10-31\ner.bat" />
+    <None Include="stanford-ner-2016-10-31\ner.sh" />
+    <None Include="worldcities.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="stanford-ner-2016-10-31\build.xml" />
+    <Content Include="stanford-ner-2016-10-31\lib\joda-time.jar" />
+    <Content Include="stanford-ner-2016-10-31\lib\jollyday-0.4.9.jar" />
+    <Content Include="stanford-ner-2016-10-31\lib\stanford-ner-resources.jar" />
+    <Content Include="stanford-ner-2016-10-31\LICENSE.txt" />
+    <Content Include="stanford-ner-2016-10-31\NERDemo.java" />
+    <Content Include="stanford-ner-2016-10-31\README.txt" />
+    <Content Include="stanford-ner-2016-10-31\sample-conll-file.txt" />
+    <Content Include="stanford-ner-2016-10-31\sample-w-time.txt" />
+    <Content Include="stanford-ner-2016-10-31\sample.ner.txt" />
+    <Content Include="stanford-ner-2016-10-31\sample.txt" />
+    <Content Include="stanford-ner-2016-10-31\stanford-ner-3.7.0-javadoc.jar" />
+    <Content Include="stanford-ner-2016-10-31\stanford-ner-3.7.0-sources.jar" />
+    <Content Include="stanford-ner-2016-10-31\stanford-ner-3.7.0.jar" />
+    <Content Include="stanford-ner-2016-10-31\stanford-ner.jar" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
