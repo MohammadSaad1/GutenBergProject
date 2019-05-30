@@ -1,3 +1,5 @@
+///// Only GutenbergApp and GutenbergReader is apart of this solution. Everything else is just there for no reason.
+
 Denne applikation tillader dig at søger i en stor mængde bøger, med forfatter navn, titel og byer. Her kan du forholdvis få vist byer nævnt i teksterne på et kort, få en liste over hvilke byer nævnes i hvilke bøger og mere.
 Det andet projekt der ligeledes eksistere her, er en applikation som kan sætte filerne ind i DB'en.  (Hvis problemer opstår så er det garanteret pga. Filereader l. 36 og  l. 43.
 
