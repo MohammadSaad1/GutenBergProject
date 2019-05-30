@@ -6,11 +6,11 @@ Hvilke databaser er brugt?
 For at udfordre mig selv har jeg valgt at bruge MongoDB og SQL (ikke færdiggjort). 
 Hvordan er data modelleret i din database?
 MongoDB database har ikke rigtig nogle model, hvilket betyder at det ser sådan ud i databasen.
- ![Database](https://imgur.com/GBbLfZX)
+ ![Database](https://i.imgur.com/NEfDltX.png)
 
 Hvordan er data modelleret i din applikation?
-  ![Database]( https://imgur.com/hPcTlIH)
-  ![Database]( https://imgur.com/JCj14kr)
+  ![Database]( https://i.imgur.com/hPcTlIH.png)
+  ![Database]( https://i.imgur.com/JCj14kr.png)
 
 Hvad angår SQL databasen er den ikke i brug, men databasen er lavet og tabellerne er ligeledes lavet. Dataen er opbevaret i en mange til mange relation som ser således ud:
 
